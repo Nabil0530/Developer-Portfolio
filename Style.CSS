@@ -24,3 +24,14 @@ section {
 .measurement img {
     width: 80%;
 }
+
+.Link-Button {
+    text-decoration: none;
+    color: beige;
+    background-image: linear-gradient(lightcoral, coral);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 0 auto;
+    font-weight: 700;
+
+}
