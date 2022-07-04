@@ -98,3 +98,7 @@ p {
 #arrange {
     border-left: 7px solid darkslategray;
 }
+
+footer p {
+    text-align: center;
+}
